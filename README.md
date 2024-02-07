@@ -3,12 +3,12 @@
 ## Apresentação
  - Meu nome é Marlon Castro Miranda e tenho 29 anos.
  - Sou formado em **Ciência da computação** pela **FAPAN**.
- - Nas horas vagas sou cantor, e também curto esportes principalmente Vôlei e Futebol.   
+ - Nas horas vagas sou cantor, e também curto praticar esportes principalmente Vôlei e Futebol.   
 
 ### Bio
 - 💕 Sou desenvolvedor **Frontend** e também gosto de **Design de interfaces**.
 - ✍ Me aprofundando na stack backend para futuramente me tornar um fullstack dev
-- 📚 Estudando: ReactJS e NodeJS
+- 📚 Atualmente Estou trabalhando com: Java, .NET, VueJs, AngularJs.
 
 ### Linguagens e Ferramentas
 
