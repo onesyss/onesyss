@@ -6,17 +6,15 @@
  - Nas horas vagas sou cantor e curto praticar esportes, principalmente Vôlei e Futebol.   
 
 ### Bio
-- 💻 **Web Developer** com sólida experiência em sistemas escaláveis.
-- 🚀 Especialista em **PHP (Laravel & Livewire)** e **Java (Spring Boot)**.
-- 🛠️ Domínio de frameworks modernos para construção de aplicações Fullstack robustas.
-- 📚 Atualmente focado em: **Ecossistema Laravel, Spring Ecosystem, VueJs e Angular.**
+- 💻 **Web Developer** focado no desenvolvimento de sistemas robustos e performáticos.
+- 🚀 Especialista em **Java (Spring Boot)** e entusiasta de tecnologias modernas como **Livewire**.
+- 🛠️ Grande experiência com arquiteturas escaláveis e integração de serviços.
+- 📚 Atualmente focado em: **Java Ecosystem, Spring Security, VueJs e Angular.**
 
 ### Linguagens e Ferramentas
 
 #### Backend & Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
   <img src="https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white" height="40" />
@@ -50,6 +48,6 @@
 <a href="https://www.instagram.com/o_marlonm/?hl=pt-br">
   <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="margin-right: 10px;" />
 </a>
-<a href="https://www.linkedin.com/in/marlon-miranda-950828155/">
+<a href="https://www.linkedin.com/in/marlon-miranda-957a18287/">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
