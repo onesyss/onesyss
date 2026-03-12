@@ -9,7 +9,6 @@
 - 💻 **Web Developer** focado no desenvolvimento de sistemas robustos e performáticos.
 - 🚀 Especialista em **Java (Spring Boot)** e entusiasta de tecnologias modernas como **Livewire**.
 - 🛠️ Grande experiência com arquiteturas escaláveis e integração de serviços.
-- 📚 Atualmente focado em: **Java Ecosystem, Spring Security, VueJs e Angular.**
 
 ### Linguagens e Ferramentas
 
